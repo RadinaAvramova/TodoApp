@@ -1,5 +1,4 @@
 # Todo App
 
-This is an app where the user can write his tasks for the day. When he clicks the left button he completes the task and when he clicks the right button he deletes that task.
+The Todo App is a task management web application that helps users organize their daily tasks and activities. Built with JavaScript, this app provides a clean and intuitive interface for creating, editing, and marking tasks as completed.
 
-Live Demo : https://replit.com/@RadinaAvramova/Todo-App
